@@ -1,6 +1,6 @@
 # meals
 
-A new Flutter project.
+new Meal App which contains some recipes according to the categories.
 
 ## Getting Started
 
