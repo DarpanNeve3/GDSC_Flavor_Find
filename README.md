@@ -4,7 +4,7 @@ new Meal App which contains some recipes according to the categories.
 
 ## Latest Announcements 📢
 
-🔴 The PRs made in this repo will not be considered for the official Hacktoberfest (conducted by Digitalocean).
+
 
 ## Contribution Guidelines
 
